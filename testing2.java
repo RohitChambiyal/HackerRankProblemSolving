@@ -1,11 +1,6 @@
-package Data_Structure;
-
-import java.util.ArrayList;
-
-public class testing2 {
+package Non_Uploaded_Git;
+public class testing2{
     public static void main(String[] args){
-        ArrayList<nodes> al1 = new ArrayList<nodes>();
-        al1.add(new nodes(5));
-        System.out.println();
+        System.out.println(Math.ceil(Math.log(8)/Math.log(2)));
     }
 }
